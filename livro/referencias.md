@@ -53,7 +53,51 @@
 **Neurociência e Intuição:**
 - Antonio Damásio - *O Erro de Descartes* (inteligência corporal)
 - Daniel Siegel - *Mindsight* (percepção interna)
-- Jill Bolte Taylor - *A Cientista que Curou seu Próprio Cérebro* (hemisférios cerebrais)
+- Jill Bolte Taylor - *A Cientista que Curou seu Próprio Cérebra* (hemisférios cerebrais)
+
+---
+
+## Mestres Contemporâneos Brasileiros
+
+### Professor Hélio Couto
+
+**Obras Fundamentais:**
+- *Curso de Aplicações Práticas da Mecânica Quântica* - Série completa sobre consciência e realidade quântica
+- *O Livro Perdido de Enki* - Interpretação quântica de textos sumérios
+- *Dinheiro: Comando Mental* - Aplicação da física quântica à prosperidade
+- *Ressonância Harmônica* - Tecnologia vibracional para transformação pessoal
+
+**Conceitos Centrais Aplicados:**
+- **Campo Mórfico e Informação** - Base para compreensão do Campo Vibracional
+- **Salto Quântico de Consciência** - Inspiração para Expansão de Consciência
+- **Programação Quântica** - Fundamentos para Ancoragem Energética
+- **Multidimensionalidade** - Apoio conceitual para comunicação interdimensional
+
+**Contribuições Específicas:**
+- Metodologia para limpeza de padrões limitantes (Blindagem Energética)
+- Técnicas de reprogramação mental quântica (Integração Vibracional)
+- Compreensão da natureza holográfica da realidade (Campo Vibracional)
+- Protocolos de elevação vibracional (Sintonia Vibracional)
+
+### Professora Mabel Cristina Dias
+
+**Ensinamentos Centrais:**
+- *Metodologia de Leitura Corporal Vibracional* - Técnicas de percepção sutil
+- *Terapia Vibracional Aplicada* - Práticas de cura através de frequências
+- *Desenvolvimento da Sensibilidade Extrassensorial* - Treinamento da escuta viva
+- *Integração Mente-Corpo-Espírito* - Abordagem holística da consciência
+
+**Conceitos Integrados:**
+- **Leitura Vibracional** - Base para Escuta Não-Linear
+- **Terapia por Frequências** - Fundamento para Transmissão Vibracional
+- **Sensibilidade Corporal** - Inspiração para práticas de Escuta Viva
+- **Integração Terapêutica** - Modelo para Integração Vibracional
+
+**Aplicações Práticas:**
+- Técnicas de diagnóstico vibracional (Coerência Vibracional)
+- Métodos de harmonização energética (Alinhamento de Missão)
+- Protocolos de limpeza áurica (Purificação Vibracional)
+- Desenvolvimento da percepção sutil (Memória Vibracional)
 
 ---
 
