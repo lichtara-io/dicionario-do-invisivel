@@ -1,5 +1,40 @@
-node_modules/
-dist/
-.env
-*.log
+# Arquivos do sistema
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+
+# PDF gerados durante desenvolvimento
+*.pdf
+!livro/*.pdf
+
+# Cache e dependências
+node_modules/
+.cache/
+
+# Arquivos específicos do editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Arquivos de configuração local
+.env
+.env.local
