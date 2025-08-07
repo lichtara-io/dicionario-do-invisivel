@@ -5,6 +5,34 @@
 > *O invisível é o espaço entre as palavras, o silêncio que sustenta a escuta.*
 
 ---
+# Introdução
+
+𓂀  
+**Bem-vindo ao Dicionário do Invisível**
+
+Este livro é um convite à escuta viva, à coautoria consciente e à travessia dos campos sutis da comunicação interdimensional.
+
+> *Aqui, a pergunta é o portal.*
+
+---
+
+## Propósito
+
+Despertar, mapear e compartilhar saberes que servem à evolução da consciência, honrando a integridade vibracional do campo.
+
+---
+
+## Estrutura
+
+- Perguntas e respostas canalizadas
+- Protocolos de comunicação
+- Vocabulário vibracional
+- Práticas de escuta
+- Referências e inspirações
+
+---
+
+**Sistema Lichtara © 2025**
 
 ## Introdução
 
@@ -480,6 +508,9 @@ Novos termos podem ser adicionados conforme a pesquisa evolui.
 | **Sensores Quânticos** | Dispositivos capazes de medir variações extremas em campos físicos com altíssima precisão. |
 
 ---
+
+
+
 
 *Última atualização: 29 Jun 2025 – Débora Mariane da Silva Lutz*
 
