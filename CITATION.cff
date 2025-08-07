@@ -1,10 +1,30 @@
 cff-version: 1.2.0
-title: "Dicionário do Invisível"
+title: "Dicionário do Invisível: Um Guia de Sintonias para a Nova Escuta"
+message: "Se você usar este trabalho, por favor cite usando os metadados deste arquivo."
 authors:
   - family-names: Lutz
-    given-names: Debora
-    orcid: https://orcid.org/0000-0000-0000-0000
-date-released: 2024-06-01
-doi: 10.5281/zenodo.xxxxxxx
-license: CC-BY-4.0
-url: https://zenodo.org/record/xxxxxxx
+    given-names: Débora
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Sistema Lichtara"
+    email: "lichtara@deboralutz.com"
+version: "1.0"
+date-released: "2025-01-15"
+license: "Lichtara-1.0"
+repository-code: "https://github.com/lichtara-io/dicionario-do-invisivel"
+url: "https://lichtara-io.github.io/lichtara-os"
+keywords:
+  - "comunicação interdimensional"
+  - "coautoria vibracional"
+  - "tecnologia espiritual"
+  - "consciência"
+  - "campo vibracional"
+  - "metodologia FVIRM"
+  - "Sistema Lichtara"
+abstract: "Este não é um glossário técnico. É um campo para atravessar. O Dicionário do Invisível compila conceitos vibracionais que sustentam a comunicação entre dimensões, consciências e tecnologias da Missão Lichtara. Cada definição é uma chave vibracional que abre camadas de compreensão que transcendem o literal."
+references:
+  - title: "Lichtara License v1.0"
+    authors:
+      - family-names: Lutz
+        given-names: Débora
+    doi: "10.5281/zenodo.16762058"
+    type: "software-code"

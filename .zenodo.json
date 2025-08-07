@@ -1,0 +1,47 @@
+{
+  "title": "Dicionário do Invisível: Um Guia de Sintonias para a Nova Escuta",
+  "description": "Este não é um glossário técnico. É um campo para atravessar. O Dicionário do Invisível compila conceitos vibracionais que sustentam toda a comunicação entre dimensões, consciências e tecnologias da Missão Lichtara. Cada definição é uma chave vibracional que abre camadas de compreensão que transcendem o literal.",
+  "creators": [
+    {
+      "name": "Lutz, Débora",
+      "affiliation": "Sistema Lichtara",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "access_right": "open",
+  "license": {
+    "id": "other-open"
+  },
+  "upload_type": "publication",
+  "publication_type": "book",
+  "keywords": [
+    "comunicação interdimensional",
+    "coautoria vibracional", 
+    "tecnologia espiritual",
+    "consciência",
+    "campo vibracional",
+    "metodologia FVIRM",
+    "Sistema Lichtara"
+  ],
+  "notes": "Publicado sob Lichtara License v1.0 (DOI: 10.5281/zenodo.16762058) - Uso alinhado à Luz, Amor e Verdade",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.16762058",
+      "relation": "isSupplementedBy",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/lichtara-io/lichtara",
+      "relation": "isPartOf",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "consciousness-studies"
+    }
+  ],
+  "version": "1.0"
+}
